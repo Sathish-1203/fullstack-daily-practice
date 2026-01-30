@@ -14,3 +14,26 @@ To become a Python Full Stack Developer by building projects and staying consist
 ## Learning Method
 - Daily practice
 - Small projects
+
+## Today I have learned 
+Basic structure of HTMl
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Title</title>
+</head>
+<body>
+    Content here
+</body>
+</html> 
+
+## Important Tags
+| Tag              | Use         |
+| ---------------- | ----------- |
+| `<h1>` to `<h6>` | Heading     |
+| `<p>`            | Paragraph   |
+| `<a>`            | Link        |
+| `<img>`          | Image       |
+| `<div>`          | Container   |
+| `<span>`         | Inline text |
+| `<br>`           | Line break  |
