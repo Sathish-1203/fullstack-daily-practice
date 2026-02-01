@@ -9,7 +9,7 @@ I am a final-year IT student learning Full Stack Development step by step.
 - JavaScript
 
 ## Goal
-To become a Python Full Stack Developer by building projects and staying consistent.
+To become a Java Full Stack Developer by building projects and staying consistent.
 
 ## Learning Method
 - Daily practice
