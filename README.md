@@ -27,13 +27,3 @@ Basic structure of HTMl
 </body>
 </html> 
 
-## Important Tags
-| Tag              | Use         |
-| ---------------- | ----------- |
-| `<h1>` to `<h6>` | Heading     |
-| `<p>`            | Paragraph   |
-| `<a>`            | Link        |
-| `<img>`          | Image       |
-| `<div>`          | Container   |
-| `<span>`         | Inline text |
-| `<br>`           | Line break  |
